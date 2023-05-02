@@ -118,4 +118,23 @@ section{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    overflow: hidden;
+}
+
+.container img{
+    width: 500px;
+    position: absolute;
+    bottom: 200px;
+    right: 100px;
+    left: 800px;
+}
+.home-text{
+    padding: 0 150px;
+}
+
+.home-text span{
+    font-weight: 400;
+    text-transform: uppercase;
+    color: var(--green-color);
+
 }
