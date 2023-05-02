@@ -159,3 +159,11 @@ section{
     max-width: 160px;
 }
 
+.btn .bx{
+    padding: 4px;
+    background: var(--bg-color);
+    color: var(--text-color);
+    border-radius: 1rem;
+    font-size: 20px;
+    margin: auto;
+}
