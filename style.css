@@ -107,3 +107,15 @@ section{
     z-index: 10001;
     display: none;
 }
+
+.container{
+    position: relative;
+    width: 100%;
+    min-height: 640px;
+    display: flex;
+    align-items: center;
+    background: url("img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
