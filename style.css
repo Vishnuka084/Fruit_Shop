@@ -146,3 +146,16 @@ section{
 }
 
 
+.btn{
+    padding: 0.6rem 1rem;
+    background: var(--green-color);
+    color: var(--bg-color);
+    font-weight: 400;
+    border-radius: 5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 00.5rem;
+    max-width: 160px;
+}
+
