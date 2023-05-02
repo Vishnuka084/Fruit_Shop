@@ -122,10 +122,10 @@ section{
 }
 
 .container img{
-    width: 500px;
+    width: 700px;
     position: absolute;
-    bottom: 200px;
-    right: 100px;
+    bottom: -10px;
+    right: 200px;
     left: 800px;
 }
 .home-text{
@@ -138,3 +138,5 @@ section{
     color: var(--green-color);
 
 }
+
+
